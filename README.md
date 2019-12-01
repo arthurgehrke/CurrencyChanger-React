@@ -1,5 +1,6 @@
+A simple currency changer using Reactjs and javascript.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-A simple currency changer using Reactjs and javascript
+
 
 ## Available Scripts
 
