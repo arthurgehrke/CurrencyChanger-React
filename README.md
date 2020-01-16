@@ -1,10 +1,10 @@
-A simple currency changer using Reactjs and javascript.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>A simple currency changer using Reactjs and javascript.</h1>
+<h4>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</h4>
 
-
+<img src="index.png"/>
 ## Available Scripts
 
-In the project directory, you can run:
+<h2>In the project directory, you can run:</h2>
 
 ### `yarn start`
 
